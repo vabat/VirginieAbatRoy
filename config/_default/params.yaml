@@ -15,30 +15,33 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'Chercheuse en accessibilité et inclusion, et enseignante ressource. Son doctorat porte sur l'expérience de l'accessibilité pour les bénéficiaires de chien d'assistance.'
-twitter: 'https://twitter.com/virginieabatroy'
+description: ''
+twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: info@VirginieAbatRoy.com
-# phone: 888 888 88 88
+email: test@example.org
+phone: 888 888 88 88
 address:
-  # street: 450 Serra Mall
-  city: Gatineau
-  region: QC
-  # postcode: '94305'
-  country: Canada
-  country_code: CA
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-# office_hours:
-  # - 'Monday 10:00 to 13:00'
-  # - 'Wednesday 09:00 to 10:00'
-# appointment_url: 'https://calendly.com'
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
+  country_code: US
+coordinates:
+  latitude: '37.4275'
+  longitude: '-122.1697'
+directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+office_hours:
+  - 'Monday 10:00 to 13:00'
+  - 'Wednesday 09:00 to 10:00'
+appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/virginieabatroy'
+    link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
     name: Skype Me
