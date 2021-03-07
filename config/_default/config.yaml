@@ -11,7 +11,7 @@ copyright: '© 2021 Virginie Abat-Roy' # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: fr
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
