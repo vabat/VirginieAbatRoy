@@ -15,6 +15,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/virginieabatroy/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/VirginieAbatRoy
@@ -24,9 +27,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/virginieabatroy/
 organizations:
   - name: Université d'Ottawa
     url: https://uniweb.uottawa.ca/members/4469
