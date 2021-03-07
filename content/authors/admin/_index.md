@@ -29,9 +29,9 @@ social:
     link: https://github.com/gcushen
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: ai
     link: https://uottawa.academia.edu/VirginieAbatRoy
-    icon: Academicons
+    icon: academia
 organizations:
   - name: Université d'Ottawa
     url: https://uniweb.uottawa.ca/members/4469
