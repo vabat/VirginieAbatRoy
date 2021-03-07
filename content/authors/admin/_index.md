@@ -24,9 +24,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=MMmnOnAAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - display:
       header: false
     icon_pack: ai
