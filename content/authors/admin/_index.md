@@ -1,31 +1,34 @@
 ---
 title: Virginie Abat-Roy
 role: Chercheuse en accessibilité et inclusion, et enseignante ressource.
+avatar_filename: mariagea_a_415.jpg
 bio: "Son doctorat porte sur l'expérience de l'accessibilité pour les
   bénéficiaires de chien d'assistance. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Accessibilité
+  - Inclusion
+  - PhotoVoice
+  - Chien d'assistance
+  - Exclusion scolaire
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/VirginieAbatRoy
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=MMmnOnAAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/virginieabatroy/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Université d'Ottawa
+    url: https://uniweb.uottawa.ca/members/4469
 education:
   courses:
     - course: PhD in Artificial Intelligence
