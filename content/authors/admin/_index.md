@@ -32,15 +32,18 @@ organizations:
     url: https://uniweb.uottawa.ca/members/4469
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD en éducation
+      institution: Université d'Ottawa
+      year: 2023
+    - course: Maîtrise en Éducation (M.Éd.)
+      institution: Université d'Ottawa
+      year: 2015
+    - course: Baccalauréat spécialisé en Éducation (B.Éd.)
+      institution: Université d'Ottawa
+      year: 2014
+    - course: Baccalauréat en Sciences Sociales, mineure en psychologie (B.Sc.Soc.)
+      institution: Université d'Ottawa
+      year: 2013
 email: ""
 superuser: true
 highlight_name: false
