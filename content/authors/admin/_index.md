@@ -10,6 +10,7 @@ interests:
   - PhotoVoice
   - Chien d'assistance
   - Exclusion scolaire
+  - Études critiques du handicap
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,9 +45,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+Virginie est candidate du doctorat en éducation à l’Université d’Ottawa sous la direction de Nathalie Bélanger. Elle étudie l'expérience de l'accessibilité pour les bénéficiaires de chiens d'assistance à l'aide de méthodes basées sur les arts, soit le PhotoVoice. Virginie enseigne auprès d'élèves suspendus, renvoyés ou à affections médicales à Ottawa. Elle leur offre de l'enseignement individualisé avec la présence de son chien d'assistance de la Fondation Mira, Toulouse.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Virginie s'intéresse aux processus d'inclusion et d'exclusion, à l'accessibilité, aux interventions assistées par l'animal et aux études critiques du handicap en français au Canada. Elle vise l'empowerment des populations marginalisées avec qui elle travaille dans une optique de changement social.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
