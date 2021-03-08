@@ -1,7 +1,7 @@
 ---
 title: Virginie Abat-Roy
 role: Chercheuse en accessibilité et inclusion, et enseignante ressource.
-avatar_filename: assets/media/3aa0c2c0-861e-4b67-a35c-c23bfed7ad68.jpg
+avatar_filename: avatar.jpg
 bio: "Son doctorat porte sur l'expérience de l'accessibilité pour les
   bénéficiaires de chien d'assistance. "
 interests:
