@@ -54,4 +54,4 @@ Virginie est candidate du doctorat en éducation à l’Université d’Ottawa s
 
 Virginie s'intéresse aux processus d'inclusion et d'exclusion, à l'accessibilité, aux interventions assistées par l'animal et aux études critiques du handicap en français au Canada. Elle vise l'empowerment des populations marginalisées avec qui elle travaille dans une optique de changement social.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Virginie_Abat-Roy_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
