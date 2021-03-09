@@ -14,7 +14,8 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:someone@example.com
+    label: email
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/virginieabatroy/
