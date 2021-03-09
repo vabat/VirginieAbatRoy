@@ -5,5 +5,6 @@ title: "Contact"
 cms_exclude: false
 summary: "Mes informations de contact"
 date: "2021-03-09"
-type: "page"
+headless: true
+type: "widget_page"
 ---
