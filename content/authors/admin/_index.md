@@ -14,7 +14,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:someone@example.com
+    link: /contact/
     label: email
   - icon: linkedin
     icon_pack: fab
