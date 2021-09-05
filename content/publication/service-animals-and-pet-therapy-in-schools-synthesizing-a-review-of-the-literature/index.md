@@ -14,7 +14,7 @@ abstract: "As the academic and social-emotional needs of students in schools
   of the animals involved should be taken into consideration, and regulations
   regarding handler and animal training should be enforced."
 slides: ""
-url_pdf: ""
+url_pdf: ''
 publication_types:
   - "2"
 authors:
