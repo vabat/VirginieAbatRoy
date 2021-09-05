@@ -17,7 +17,8 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "2"
-authors: []
+authors:
+  - admin
 author_notes: []
 publication: In *Exceptionality Education International 31*(1)
 summary: ""
@@ -39,7 +40,7 @@ image:
   filename: ""
 date: 2021-09-05T00:17:03.593Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
