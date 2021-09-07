@@ -4,10 +4,10 @@ title: " Le sens accordé à la différenciation pédagogique par des enseignant
 publication_types:
   - "2"
 authors:
-  - Bergeron
-  - Geneviève;Houde
-  - Gabriel;Prudhomme
-  - Luc;admin
+  - Geneviève Bergeron
+  - Gabriel Houde
+  - Luc Prudhomme
+  - admin
 doi: 10.4000/edso.13814
 publication: In *Éducation et Socialisation, 59*
 abstract: Au Québec, où le projet inclusif est fortement associé à la mise en
