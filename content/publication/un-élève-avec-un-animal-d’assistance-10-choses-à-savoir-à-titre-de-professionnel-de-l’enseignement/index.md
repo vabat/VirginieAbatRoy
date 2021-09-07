@@ -5,7 +5,7 @@ publication_types:
   - "0"
 authors:
   - admin
-doi: https://www.taalecole.ca/un-eleve-avec-un-animal-dassistance-10-choses-a-savoir-a-titre-de-professionnel-de-lenseignement/
+doi: ""
 abstract: https://www.taalecole.ca/un-eleve-avec-un-animal-dassistance-10-choses-a-savoir-a-titre-de-professionnel-de-lenseignement/
 draft: false
 featured: false
