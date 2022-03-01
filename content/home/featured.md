@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: recent-post
+widget_id: DernierePublication
 headless: true
 weight: 80
 title: Dernière publication
