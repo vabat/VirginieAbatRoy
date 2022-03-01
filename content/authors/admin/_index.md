@@ -1,6 +1,6 @@
 ---
 title: Virginie Abat-Roy
-role: Chercheuse en accessibilité et inclusion, et enseignante ressource.
+role: Chercheuse en accessibilité et inclusion
 avatar_filename: avatar.png
 bio: Chercheuse en inclusion et accessibilité
 interests:
