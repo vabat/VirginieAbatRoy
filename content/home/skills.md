@@ -22,7 +22,7 @@ feature:
     icon_pack: ai
     name: Moodle
   - description: 
-    icon: screen-users
+    icon: building-columns
     icon_pack: fas
     name: BrightSpace
   - description: 
