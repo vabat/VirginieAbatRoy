@@ -47,4 +47,7 @@ experience:
         Enseignement de cours à la maîtrise en éducation
         
         * Tendances de la recherche en éducation inclusive
+
+        Membre du comité Équité, Diversité, Inclusion de la faculté d'éducation
+    
 ---
