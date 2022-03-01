@@ -9,7 +9,7 @@ authors:
   - Luc Prudhomme
   - admin
 doi: 10.4000/edso.13814
-publication: In *Éducation et Socialisation, 59*
+publication: Dans *Éducation et Socialisation, 59*
 abstract: Au Québec, où le projet inclusif est fortement associé à la mise en
   œuvre de la différenciation pédagogique (DP) dans les documents ministériels
   (Ministère de l’Éducation et de l’Enseignement supérieur [MEES], 2017), force
