@@ -44,7 +44,7 @@ experience:
     date_start: '2020-08-01'
     date_end: ''
     description: |2-
-    Enseignement de cours à la maîtrise en éducation
+        Enseignement de cours à la maîtrise en éducation
         
         * Tendances de la recherche en éducation inclusive
 ---
