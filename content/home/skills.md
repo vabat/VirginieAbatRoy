@@ -26,7 +26,7 @@ feature:
     icon_pack: fas
     name: BrightSpace
   - description: 
-    icon: hands-asl-interpreting
+    icon: hand-heart
     icon_pack: fas
     name: LSQ 1
     
