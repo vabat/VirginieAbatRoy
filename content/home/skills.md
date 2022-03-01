@@ -18,8 +18,8 @@ feature:
     icon_pack: fas
     name: PhotoVoix
   - description: 
-    icon: moodle
-    icon_pack: ai
+    icon: sitemap
+    icon_pack: fas
     name: Moodle
   - description: 
     icon: laptop
