@@ -17,5 +17,5 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-widget_id: change
+widget_id: competences
 ---
