@@ -30,6 +30,8 @@ social:
 organizations:
   - name: Université d'Ottawa
     url: https://uniweb.uottawa.ca/members/4469
+  - name: Université de l'Ontario français
+    url: https://uontario.ca/
 education:
   courses:
     - course: PhD en éducation
