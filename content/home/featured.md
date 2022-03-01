@@ -2,7 +2,7 @@
 widget: featured
 widget_id: DernierePublication
 headless: true
-weight: 80
+weight: 10
 title: Dernière publication
 subtitle: ""
 content:
