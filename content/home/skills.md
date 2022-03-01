@@ -7,7 +7,7 @@ subtitle: null
 feature:
   - description: 5 ans
     icon: n
-    icon_pack: far
+    icon_pack: fab
     name: NVivo
   - description: 100%
     icon: chart-line
