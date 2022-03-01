@@ -1,7 +1,7 @@
 ---
 widget: accomplishments
 headless: true
-weight: 50
+weight: 60
 title: Diplômes et qualifications
 subtitle: null
 date_format: Jan 2006
