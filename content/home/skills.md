@@ -6,8 +6,8 @@ title: Compétences
 subtitle: null
 feature:
   - description: 
-    icon: nvivo
-    icon_pack: custom
+    icon: sitemap
+    icon_pack: fas
     name: NVivo
   - description: 
     icon: universal-access
@@ -18,8 +18,8 @@ feature:
     icon_pack: fas
     name: PhotoVoix
   - description: 
-    icon: sitemap
-    icon_pack: fas
+    icon: moodle
+    icon_pack: ai
     name: Moodle
   - description: 
     icon: laptop
