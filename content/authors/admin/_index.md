@@ -31,7 +31,7 @@ organizations:
   - name: Université d'Ottawa
     url: https://uniweb.uottawa.ca/members/4469
   - name: Université de l'Ontario français
-    url: https://uontario.ca/
+    url: https://uontario.ca/en/pourquoi-choisir-luof/universite-innovante/corps-professoral
 education:
   courses:
     - course: PhD en éducation
