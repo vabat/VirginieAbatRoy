@@ -6,8 +6,8 @@ title: Compétences
 subtitle: null
 feature:
   - description: 
-    icon: neos
-    icon_pack: fab
+    icon: NVivo
+    icon_pack: custom
     name: NVivo
   - description: 
     icon: universal-access
