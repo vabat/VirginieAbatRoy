@@ -20,7 +20,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: In *Exceptionality Education International, 31*(1)
+publication: Dans *Exceptionality Education International, 31* (1)
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -30,7 +30,7 @@ url_video: ""
 title: "Service Animals and Pet Therapy in Schools: Synthesizing a Review of the
   Literature"
 doi: 10.5206/eei.v31i1.13923
-featured: true
+featured: false
 tags: []
 projects: []
 image:
