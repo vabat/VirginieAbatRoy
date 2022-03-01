@@ -26,7 +26,7 @@ feature:
     icon_pack: fas
     name: BrightSpace
   - description: 
-    icon: handshake-angle
+    icon: hands
     icon_pack: fas
     name: LSQ 1
     
