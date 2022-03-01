@@ -41,7 +41,7 @@ experience:
     company: Université d'Ottawa
     company_url: ''
     location: Ottawa
-    date_start: '2020-08-01'
+    date_start: '2021-08-01'
     date_end: ''
     description: |2-
         Enseignement de cours à la maîtrise en éducation
