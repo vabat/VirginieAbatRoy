@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Experience
+title: Expérience
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Professeure associée
+    company: Université de l'Ontario français
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Toronto
+    date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Enseignement de cours en éducation
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Développement de l'enfant et transitions vécues
+        * Contextes d'apprentissage et apprentissage socioaffectif
+
+        Développement de cours
+        * Apprentisage pour tous
         
-  - title: Professor
-    company: University X
+  - title: Professeure à temps partiel
+    company: Université d'Ottawa
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Ottawa
+    date_start: '2020-08-01'
+    date_end: ''
+    description: |2-
+    Enseignement de cours à la maîtrise en éducation
+        
+        * Tendances de la recherche en éducation inclusive
 ---
