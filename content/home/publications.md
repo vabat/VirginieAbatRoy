@@ -19,7 +19,6 @@ content:
 design:
   view: 4
 ---
-
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Découvrez rapidement du contenu pertinent en [filtrant les publications](./publication/).
 {{% /callout %}}
