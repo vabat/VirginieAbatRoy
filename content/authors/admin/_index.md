@@ -4,10 +4,8 @@ role: Chercheuse en accessibilité et inclusion
 avatar_filename: avatar.png
 bio: Chercheuse en inclusion et accessibilité
 interests:
-  - Accessibilité
   - Inclusion
-  - PhotoVoice
-  - Chien d'assistance
+  - Accessibilité
   - Exclusion scolaire
   - Études critiques du handicap
 social:
