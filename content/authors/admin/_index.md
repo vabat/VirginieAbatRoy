@@ -37,7 +37,7 @@ education:
   courses:
     - course: PhD en éducation
       institution: Université d'Ottawa
-      year: 2023
+      year: 2022
     - course: Maîtrise en Éducation (M.Éd.)
       institution: Université d'Ottawa
       year: 2015
@@ -51,8 +51,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Virginie est candidate du doctorat en éducation à l’Université d’Ottawa sous la direction de Nathalie Bélanger. Elle étudie l'expérience de l'accessibilité pour les bénéficiaires de chiens d'assistance à l'aide de méthodes basées sur les arts, soit le PhotoVoice. Virginie enseigne auprès d'élèves suspendus, renvoyés ou à affections médicales à Ottawa. Elle leur offre de l'enseignement individualisé avec la présence de son chien d'assistance de la Fondation Mira, Toulouse.
+Virginie est candidate au doctorat en éducation à l’Université d’Ottawa. Elle étudie l'expérience de l'accessibilité pour les bénéficiaires de chiens-guides et d'assistance à l'aide de méthodes basées sur les arts, soit le PhotoVoice. Virginie a développée une expertise d'enseignement auprès d'élèves suspendus, renvoyés ou à affections médicales à Ottawa. Elle a offert de l'enseignement individualisé avec la présence de son chien d'assistance de la Fondation Mira, Toulouse.
 
-Virginie s'intéresse aux processus d'inclusion et d'exclusion, à l'accessibilité, aux interventions assistées par l'animal et aux études critiques du handicap en français au Canada. Elle vise l'empowerment des populations marginalisées avec qui elle travaille dans une optique de changement social.
+Virginie s'intéresse aux processus d'inclusion et d'exclusion, à l'accessibilité, aux interventions assistées par l'animal et aux études critiques du handicap. Elle vise l'empowerment des populations marginalisées avec qui elle travaille dans une optique de changement social. Ses futurs projets de recherche concernent l'insertion professionnel des enseignant·es vivant avec un handicap, les approches innovantes d'enseignement et la prévention de l’exclusion ainsi que l’accompagnement scolaire et social des jeunes à risque de décrochage.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Virginie_Abat-Roy_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
