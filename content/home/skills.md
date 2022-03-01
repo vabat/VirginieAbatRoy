@@ -9,13 +9,26 @@ feature:
     icon: neos
     icon_pack: fab
     name: NVivo
-  - description: 100%
-    icon: chart-line
+  - description: 
+    icon: universal-access
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Recherche ÉDI et accessibilité
+  - description: 
+    icon: camera
     icon_pack: fas
-    name: Photography
+    name: PhotoVoix
+  - description: 
+    icon: neos
+    icon_pack: fab
+    name: NVivo
+  - description: 
+    icon: universal-access
+    icon_pack: fas
+    name: Recherche ÉDI
+  - description: 
+    icon: camera
+    icon_pack: fas
+    name: PhotoVoix
+    
 widget_id: competences
 ---
