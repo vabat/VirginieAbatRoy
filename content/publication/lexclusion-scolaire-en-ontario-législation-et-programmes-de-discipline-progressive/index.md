@@ -21,7 +21,7 @@ abstract: L'objectif de cet article est de situer l'exclusion scolaire en
   d'intervention. Une revue de la littérature scientifique a permis d'identifier
   cinq programmes et initiatives canadiennes en relation avec chaque angle.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
