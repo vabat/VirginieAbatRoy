@@ -18,17 +18,17 @@ feature:
     icon_pack: fas
     name: PhotoVoix
   - description: 
-    icon: neos
-    icon_pack: fab
-    name: NVivo
+    icon: moodle
+    icon_pack: ai
+    name: Moodle
   - description: 
-    icon: universal-access
+    icon: screen-users
     icon_pack: fas
-    name: Recherche ÉDI
+    name: BrightSpace
   - description: 
-    icon: camera
+    icon: fa-solid fa-hands-asl-interpreting
     icon_pack: fas
-    name: PhotoVoix
+    name: LSQ 1
     
 widget_id: competences
 ---
