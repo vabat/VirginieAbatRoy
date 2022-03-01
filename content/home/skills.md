@@ -6,7 +6,7 @@ title: Compétences
 subtitle: null
 feature:
   - description: 
-    icon: NVivo
+    icon: nvivo
     icon_pack: custom
     name: NVivo
   - description: 
