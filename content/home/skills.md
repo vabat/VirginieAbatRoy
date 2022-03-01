@@ -12,7 +12,7 @@ feature:
   - description: 
     icon: universal-access
     icon_pack: fas
-    name: Recherche ÉDI et accessibilité
+    name: Recherche Équité, Diversité, Inclusion
   - description: 
     icon: camera
     icon_pack: fas
