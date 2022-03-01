@@ -5,8 +5,8 @@ weight: 30
 title: Compétences
 subtitle: null
 feature:
-  - description: 5 ans
-    icon: n
+  - description: 
+    icon: neos
     icon_pack: fab
     name: NVivo
   - description: 100%
