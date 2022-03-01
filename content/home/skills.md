@@ -5,10 +5,10 @@ weight: 30
 title: Compétences
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
+  - description: 5 ans
+    icon: n
+    icon_pack: fas
+    name: NVivo
   - description: 100%
     icon: chart-line
     icon_pack: fas
