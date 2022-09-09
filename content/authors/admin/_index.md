@@ -9,6 +9,8 @@ interests:
   - Accessibilité
   - Exclusion scolaire
   - Études critiques du handicap
+  - Interventions assistées par l'animal
+  - Pratiques d'enseignement innovantes
 social:
   - icon: envelope
     icon_pack: fas
