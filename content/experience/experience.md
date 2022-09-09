@@ -31,7 +31,7 @@ experience:
     description: |2-
         Professeure en inclusion scolaire, poste menant à la permanence
         
-        Cours enseignés :
+        Cours enseignés
         * Inclusion scolaire (maîtrise)
         * Inclusion scolaire (baccalauréat)
         * Difficultés et douance (baccalauréat)
