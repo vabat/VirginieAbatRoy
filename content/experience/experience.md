@@ -22,12 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+ - title: Professeure en inclusion scolaire
+    company: Université de Moncton, Faculté d'éducation
+    company_url: 'https://www.umoncton.ca/umcm-education/node/28'
+    location: Moncton
+    date_start: '2022-07-01'
+    date_end: ''
+    description: |2-
+        Professeure en inclusion scolaire, poste menant à la permanence
+        
+        Cours enseignés :
+        * Inclusion scolaire (maîtrise)
+        * Inclusion scolaire (baccalauréat)
+        * Difficultés et douance (baccalauréat)
+        
   - title: Professeure associée
     company: Université de l'Ontario français
     company_url: ''
     location: Toronto
     date_start: '2021-08-01'
-    date_end: ''
+    date_end: '2022-05-01'
     description: |2-
         Enseignement de cours en éducation
         
@@ -42,7 +56,7 @@ experience:
     company_url: ''
     location: Ottawa
     date_start: '2021-08-01'
-    date_end: ''
+    date_end: '2022-06-01'
     description: |2-
         Enseignement de cours à la maîtrise en éducation
         
