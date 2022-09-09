@@ -24,7 +24,7 @@ feature:
   - description: 
     icon: laptop
     icon_pack: fas
-    name: BrightSpace
+    name: D2L/Brightspace
   - description: 
     icon: hands
     icon_pack: fas
