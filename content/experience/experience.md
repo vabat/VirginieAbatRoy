@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- - title: Professeure en inclusion scolaire
+  - title: Professeure en inclusion scolaire
     company: Université de Moncton, Faculté d'éducation
     company_url: 'https://www.umoncton.ca/umcm-education/node/28'
     location: Moncton
