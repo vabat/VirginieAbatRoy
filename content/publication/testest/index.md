@@ -6,7 +6,8 @@ publication_types:
 authors:
   - admin
 doi: 10.1515/9782760560147-021
-publication: Le bien-être et la réussite de l’élève à l’école
+publication: "*Le bien-être et la réussite de l’élève à l’école.* Presses de
+  l'Université du Québec"
 abstract: https://www.researchgate.net/publication/380210504_La_reussite_educative_Un_levier_d'inclusion_entre_tensions_et_conditions_de_mise_en_oeuvre
 draft: false
 featured: false
