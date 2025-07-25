@@ -6,8 +6,8 @@ publication_types:
 authors:
   - admin
 doi: https://www.researchgate.net/publication/357537837_L'exclusion_scolaire_en_Ontario_legislation_et_programmes_de_discipline_progressive/stats
-publication: Dans *Canadian Journal for New Scholars in Education/Revue
-  canadienne des jeunes chercheuses et chercheurs en éducation, 12* (2)
+publication: "*Canadian Journal for New Scholars in Education/Revue canadienne
+  des jeunes chercheuses et chercheurs en éducation, 12* (2)"
 abstract: L'objectif de cet article est de situer l'exclusion scolaire en
   Ontario sur les plans sociaux, législatifs et des pratiques grâce à
   l'identification et l'exploration de différentes initiatives. L'exclusion
