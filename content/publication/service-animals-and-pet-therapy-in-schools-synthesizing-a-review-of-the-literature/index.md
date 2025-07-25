@@ -1,10 +1,11 @@
 ---
-abstract: "As the academic and social-emotional needs of students in schools
-  continue to increase, so too does the presence of dogs in educational spaces.
-  This article aims to present an overview of past and present animal-assisted
-  intervention practices in school settings. This comprehensive literature
-  review examines the current state of research within this field of study. Data
-  from 29 publications were selected according to strict inclusion and exclusion
+abstract: >-
+  As the academic and social-emotional needs of students in schools continue to
+  increase, so too does the presence of dogs in educational spaces. This article
+  aims to present an overview of past and present animal-assisted intervention
+  practices in school settings. This comprehensive literature review examines
+  the current state of research within this field of study. Data from 29
+  publications were selected according to strict inclusion and exclusion
   criteria. The results highlight three categories in which the presence of dogs
   in schools have an impact: social-emotional, cognitive, and physiological.
   Challenges to program implementation include health risks, cultural context,
@@ -12,7 +13,9 @@ abstract: "As the academic and social-emotional needs of students in schools
   more study is needed, especially in order to understand the effect of dogs on
   the social-emotional learning of students. Finally, the welfare and training
   of the animals involved should be taken into consideration, and regulations
-  regarding handler and animal training should be enforced."
+  regarding handler and animal training should be enforced.
+
+  https://www.researchgate.net/publication/351334631_Service_Animals_and_Pet_Therapy_in_Schools_Synthesizing_a_Review_of_the_Literature
 slides: ""
 url_pdf: ""
 publication_types:
