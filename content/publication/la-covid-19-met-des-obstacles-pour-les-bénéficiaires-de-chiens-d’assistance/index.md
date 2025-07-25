@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
 doi: ""
-publication: The Conversation
+publication: "*The Conversation*"
 abstract: >-
   En contexte normal, les chiens de travail permettent de faciliter le quotidien
   des personnes en situation de handicap. Toutefois, depuis le début de la
