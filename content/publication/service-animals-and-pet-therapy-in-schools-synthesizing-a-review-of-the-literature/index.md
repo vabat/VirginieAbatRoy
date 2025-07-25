@@ -23,7 +23,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: Dans *Exceptionality Education International, 31* (1)
+publication: "*Exceptionality Education International, 31* (1)"
 summary: ""
 url_dataset: ""
 url_project: ""
