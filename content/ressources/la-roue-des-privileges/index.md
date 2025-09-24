@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
 abstract: Pour citer la roue : 
-Abat-Roy, V. (2022). <La roue des privilèges>. https://bio.virginieabatroy.com/ressources/la-roue-des-privileges/la-roue-des-privileges.pdf
+Abat-Roy, V. (2022). <i>La roue des privilèges</i>. https://bio.virginieabatroy.com/ressources/la-roue-des-privileges/la-roue-des-privileges.pdf
 draft: false
 featured: false
 image:
@@ -22,7 +22,7 @@ publication_types:
 authors:
   - admin
 abstract: Pour citer la roue : 
-Abat-Roy, V. (2022). <La roue des privilèges>. https://bio.virginieabatroy.com/ressources/la-roue-des-privileges/la-roue-des-privileges.pdf
+Abat-Roy, V. (2022). <i>La roue des privilèges</i>. https://bio.virginieabatroy.com/ressources/la-roue-des-privileges/la-roue-des-privileges.pdf
 draft: false
 featured: false
 image:
