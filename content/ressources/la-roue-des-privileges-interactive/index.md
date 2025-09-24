@@ -1,5 +1,5 @@
 ---
-title: La roue des privilèges (version interactive)
+title: "La roue des privilèges (version interactive)"
 publication_types:
   - "0"
 authors:
