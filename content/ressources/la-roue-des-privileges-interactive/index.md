@@ -4,8 +4,7 @@ publication_types:
   - "0"
 authors:
   - admin
-abstract: "Pour citer la roue : 
-Abat-Roy, V. (2025). <i>La roue des privilèges</i> (version interactive). https://roue.virginieabatroy.com"
+abstract: "Pour citer la roue : Abat-Roy, V. (2025). *La roue des privilèges* (version interactive). https://roue.virginieabatroy.com"
 draft: false
 featured: false
 image:
