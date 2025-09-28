@@ -1,8 +1,9 @@
 ---
 title: La roue des privilèges
-subtitle: "Pour citer la roue : Abat-Roy, V. (2022). _La roue des privilèges_.
-  https://bio.virginieabatroy.com/publication/la-roue-des-privileges/la-roue-de\
-  s-privileges.pdf"
+subtitle: "Pour citer la roue : <br/>Abat-Roy, V. (2022). _La roue des
+  privilèges_.
+  <br/>https://bio.virginieabatroy.com/publication/la-roue-des-privileges/la-ro\
+  ue-des-privileges.pdf"
 date: 2022-09-01
 draft: false
 featured: false
