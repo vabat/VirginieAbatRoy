@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Virginie Abat-Roy' # Website name
-baseurl: 'https://virginieabatroy.netlify.app' # Website URL
-copyright: '© 2021 Virginie Abat-Roy' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://bio.virginieabatroy.com' # Website URL
+copyright: '© {year} Virginie Abat-Roy' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
