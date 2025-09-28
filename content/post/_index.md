@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Ressources
 cms_exclude: false
 
 # View.
