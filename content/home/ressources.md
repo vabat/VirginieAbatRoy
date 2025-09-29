@@ -6,8 +6,8 @@ weight: 50
 title: Ressources
 subtitle: ""
 content:
-  page_type: publication
-  count: 5
+  page_type: post
+  count: 6
   offset: 0
   order: desc
   filters:
