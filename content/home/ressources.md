@@ -20,5 +20,5 @@ design:
   view: 4
 ---
 {{% callout note %}}
-Découvrez rapidement du contenu pertinent en [filtrant les ressources](./ressources/).
+Découvrez rapidement du contenu pertinent en [filtrant les ressources](./post/).
 {{% /callout %}}
