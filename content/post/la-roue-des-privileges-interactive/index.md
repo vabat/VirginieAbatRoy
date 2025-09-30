@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Version intéractive de la roue des privilèges.
+Version interactive de la roue des privilèges.
